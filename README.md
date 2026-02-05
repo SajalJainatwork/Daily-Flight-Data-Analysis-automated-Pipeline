@@ -137,11 +137,5 @@ The following images illustrate the automation:
 
 ---
 
-### Get In Touch
-
-If you have any suggestions or would like to discuss this project further, feel free to reach out to me via email at [shahbajcse@gmail.com](mailto:shahbajcse@gmail.com).
-
-You can also follow me on [LinkedIn](https://www.linkedin.com/in/mdshahbaj) for more updates on my projects and learning journey.
-
 
 
