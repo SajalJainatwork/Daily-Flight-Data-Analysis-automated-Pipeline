@@ -1,3 +1,5 @@
+![avg-flights](https://github.com/user-attachments/assets/1ee1d6d9-98e7-4903-9c59-c5da82b85831)
+
 # Daily Flight Data Analysis Automation Pipeline
 
 **Table of Contents:**
